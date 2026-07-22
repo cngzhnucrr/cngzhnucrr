@@ -30,16 +30,26 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Icons
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&theme=tokyonight&locale=en" alt="Cengizhan's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="175" />
+  <!-- GitHub Genel İstatistik Kartı (Simgeler Aktif) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&icon_color=7dcfff&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Cengizhan's GitHub Stats" height="170" />
+  
+  <!-- En Çok Kullanılan Diller Kartı -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&show_icons=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Top Languages" height="170" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Ardışık Kod Yazma (Streak) ve Katkı Simgeleri Kartı -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
 </div>
 
 ---
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [cngzhnucr](https://www.linkedin.com/in/cngzhnucr/)
-- **Email:** cnzucr@gmail.com
+- 💼 **LinkedIn:** [cngzhnucr](https://www.linkedin.com/in/cngzhnucr/)
+- 📧 **Email:** [cnzucr@gmail.com](mailto:cnzucr@gmail.com)
