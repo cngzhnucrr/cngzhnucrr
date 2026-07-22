@@ -32,10 +32,10 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&theme=tokyonight&locale=en" alt="Cengizhan's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="175" />
+</div>
 
 ---
 
