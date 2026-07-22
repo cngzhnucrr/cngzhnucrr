@@ -30,10 +30,10 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 
 ---
 
-### 📊 GitHub Stats & Icons
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Genel İstatistik Kartı (Simgeler Aktif) -->
+  <!-- Genel İstatistik Kartı (Simgeler Görünür & Parlak) -->
   <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&icon_color=7dcfff&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Cengizhan's GitHub Stats" height="170" />
   
   <!-- En Çok Kullanılan Diller Kartı -->
@@ -43,7 +43,7 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 <br />
 
 <div align="center">
-  <!-- Ardışık Kod Yazma (Streak) ve Katkı Simgeleri Kartı -->
+  <!-- Kod Yazma Serisi ve Süreklilik (Streak) Kartı -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
 </div>
 
