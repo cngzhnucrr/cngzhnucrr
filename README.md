@@ -1,15 +1,19 @@
 <div align="center">
 
-  <!-- 1. Satır: İsim & Karşılama -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vcenter=true&width=700&lines=Hi+there%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B" alt="Typing SVG" />
+  <!-- 1. Satır: İsim & Karşılama (Hemen başlar, yazar ve bekler) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=20000&color=7AA2F7&center=true&vcenter=true&width=700&lines=Hi+there%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B" alt="Typing SVG" />
+  <br>
 
-  <!-- 2. Satır: Unvan -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7DCFFF&center=true&vcenter=true&width=700&lines=Electrical+%26+Electronics+Engineering+Student" alt="Typing SVG" />
+  <!-- 2. Satır: Unvan (1. satırın yazılmasını bekler, sonra başlar ve bekler) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=20000&delay=1700&color=7DCFFF&center=true&vcenter=true&width=700&lines=Electrical+%26+Electronics+Engineering+Student" alt="Typing SVG" />
+  <br>
 
-  <!-- 3. Satır: İlgi Alanları -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7DCFFF&center=true&vcenter=true&width=700&lines=Embedded+Systems+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <!-- 3. Satır: İlgi Alanları (Önceki iki satırın bitmesini bekler, yazar ve bekler) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=20000&delay=3400&color=7DCFFF&center=true&vcenter=true&width=700&lines=Embedded+Systems+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
 </div>
+
+---
 
 Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı seviyorum. Gömülü sistemler, dijital devre tasarımı ve yapay zekâ tabanlı görüntü işleme projeleri geliştiriyorum. 
 
