@@ -16,7 +16,7 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 ### 🛠 Tech Stack & Tools
 
 #### **Yazılım & Yapay Zekâ**
-![Python]([https://img.shields.io/badge](https://github.com/cngzhnucrr/python_temel)/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cngzhnucrr/python_temel)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
