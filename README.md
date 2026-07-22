@@ -1,15 +1,8 @@
-# Hi there, I'm Cengizhan Uçar 👋
-
-### ⚡ Electrical & Electronics Engineering Student | Embedded Systems & Computer Vision Enthusiast
-
-Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı seviyorum. Gömülü sistemler, dijital devre tasarımı ve yapay zekâ tabanlı görüntü işleme projeleri geliştiriyorum. 
-
----
-
-### 🚀 What I'm Working On
-- 🤖 **Computer Vision & Deep Learning:** Real-time object detection models (YOLO11), custom dataset training, and intelligent video/audio inference.
-- ⚡ **Embedded Systems & Electronics:** Digital circuit design (VHDL), MCU programming (STM32, Arduino), and PCB layout design (Altium Designer).
-- 🛠️ **Hardware & Rapid Prototyping:** 3D modelling and physical component fabrication using Bambu Lab A1.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vcenter=true&width=850&lines=Hi+there%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B;Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+%26+Computer+Vision+Enthusiast;--------------------------------------------------;M%C3%BChandislik+disipliniyle+donan%C4%B1m+ve+yaz%C4%B1l%C4%B1m%C4%B1+ayn%C4%B1+noktada+bulu%C5%9Fturuyorum.;G%C3%B6m%C3%BCl%C3%BC+sistemler%2C+dijital+devre+tasar%C4%B1m%C4%B1+ve+yapay+zek%C3%A2+geli%C5%9Ftiriyorum.;--------------------------------------------------;%F0%9F%A4%96+Real-time+object+detection+models+(YOLO11)+%26+Deep+Learning;%E2%9A%A1+Digital+circuit+design+(VHDL)+%26+MCU+(STM32%2C+Arduino);%F0%9F%9B%A0%EF%B8%8F+PCB+layout+(Altium)+%26+3D+prototyping+(Bambu+Lab+A1)" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -33,17 +26,13 @@ Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı s
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Genel İstatistik Kartı (Simgeler Görünür & Parlak) -->
   <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&icon_color=7dcfff&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Cengizhan's GitHub Stats" height="170" />
-  
-  <!-- En Çok Kullanılan Diller Kartı -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&show_icons=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Kod Yazma Serisi ve Süreklilik (Streak) Kartı -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
 </div>
 
