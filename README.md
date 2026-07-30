@@ -1,64 +1,65 @@
 <div align="center">
-
-  <!-- 1. Satır: İsim & Karşılama (Hemen başlar, yazar ve bekler) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=20000&color=7AA2F7&center=true&vcenter=true&width=700&lines=Hi+there%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B" alt="Typing SVG" />
-  <br>
-
-  <!-- 2. Satır: Unvan (1. satırın yazılmasını bekler, sonra başlar ve bekler) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=20000&delay=1700&color=7DCFFF&center=true&vcenter=true&width=700&lines=Electrical+%26+Electronics+Engineering+Student" alt="Typing SVG" />
-  <br>
-
-  <!-- 3. Satır: İlgi Alanları (Önceki iki satırın bitmesini bekler, yazar ve bekler) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=20000&delay=3400&color=7DCFFF&center=true&vcenter=true&width=700&lines=Embedded+Systems+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
-
+  <a href="https://github.com/cngzhnucrr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B;Electrical+%26+Electronics+Engineering+Student;Building+at+the+intersection+of+hardware+and+AI" alt="Animated introduction" />
+  </a>
+  <br />
+  <a href="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square&label=Profile+views" alt="Profile views" />
+  </a>
 </div>
 
----
+## About me
 
-Mühendislik disipliniyle donanım ve yazılımı aynı noktada buluşturmayı seviyorum. Gömülü sistemler, dijital devre tasarımı ve yapay zekâ tabanlı görüntü işleme projeleri geliştiriyorum. 
+I am an Electrical & Electronics Engineering student who enjoys turning ideas into working systems—from digital logic and embedded software to computer-vision applications. I am especially interested in building practical, measurable solutions where hardware, software, and AI work together.
 
----
+- 🔭 Currently exploring **real-time computer vision**, **edge AI**, and **embedded systems**
+- 🧠 Training and deploying custom **YOLO11** object-detection models
+- ⚡ Designing with **VHDL**, **STM32**, and PCB tools
+- 🛠️ Prototyping concepts with 3D modelling and a **Bambu Lab A1**
+- 🌱 Always improving through hands-on projects and open-source work
 
-### 🚀 What I'm Working On
-- 🤖 **Computer Vision & Deep Learning:** Real-time object detection models (YOLO11), custom dataset training, and intelligent video/audio inference.
-- ⚡ **Embedded Systems & Electronics:** Digital circuit design (VHDL), MCU programming (STM32, Arduino), and PCB layout design (Altium Designer).
-- 🛠️ **Hardware & Rapid Prototyping:** 3D modelling and physical component fabrication using Bambu Lab A1.
+## Focus areas
 
----
+| Area | What I build and learn |
+| :-- | :-- |
+| 🤖 Computer Vision & AI | Object detection, custom datasets, inference pipelines, OpenCV and PyTorch |
+| ⚙️ Embedded Systems | Microcontroller firmware, sensor integration, real-time control and STM32 development |
+| 🔌 Digital Design | VHDL-based digital circuits, FPGA-oriented thinking and hardware debugging |
+| 🧩 Prototyping | PCB design, 3D modelling and rapid physical iteration |
 
-### 🛠 Tech Stack & Tools
+## Toolbox
 
-#### **Yazılım & Yapay Zekâ**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cngzhnucrr/python_temel)
+<div align="center">
+
+**Software & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=github&logoColor=white)
 
-#### **Donanım & Gömülü Sistemler**
-![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=vHDL&logoColor=white)
+**Hardware & Design**
+
 ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6D4C9F?style=for-the-badge&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A200FF?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&icon_color=7dcfff&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Cengizhan's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&show_icons=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&hide_border=false&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
-<br />
+## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&bg_color=1a1b26&border_color=414868&theme=tokyonight" alt="Cengizhan's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&langs_count=8&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&theme=tokyonight" alt="Most used languages" height="170" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false&border=414868" alt="GitHub contribution streak" height="165" />
 </div>
 
----
+## Let’s connect
 
-### 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [cngzhnucr](https://www.linkedin.com/in/cngzhnucr/)
-- 📧 **Email:** [cnzucr@gmail.com](mailto:cnzucr@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/cngzhnucr/"><img src="https://img.shields.io/badge/LinkedIn-cngzhnucr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cnzucr@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
