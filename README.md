@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <a href="https://github.com/cngzhnucrr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B;Electrical+%26+Electronics+Engineering+Student;Building+at+the+intersection+of+hardware+and+AI" alt="Animated introduction" />
