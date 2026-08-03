@@ -1,159 +1,81 @@
 ```markdown
 <div align="center">
-
-# Hi, I'm Cengizhan Uçar 👋
-
-### Electrical & Electronics Engineering Student
-### Computer Vision • Embedded Systems • Artificial Intelligence
-
-<a href="https://github.com/cngzhnucrr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B;Electrical+%26+Electronics+Engineering+Student;Computer+Vision+%E2%80%A2+Embedded+Systems+%E2%80%A2+AI;Building+Intelligent+Embedded+Systems" alt="Typing SVG" />
-</a>
-
-<br>
-
-<a href="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square">
-<img src="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square&label=Profile+Views"/>
-</a>
-
+  <a href="https://github.com/cngzhnucrr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=1200&color=7AA2F7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Cengizhan+U%C3%A7ar+%F0%9F%91%8B;Electrical+%26+Electronics+Engineering+Student;Building+at+the+intersection+of+hardware+and+AI" alt="Animated introduction" />
+  </a>
+  <br />
+  <a href="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=cngzhnucrr&color=7aa2f7&style=flat-square&label=Profile+views" alt="Profile views" />
+  </a>
 </div>
 
----
+## About me
 
-# 👨‍💻 About Me
+I am an Electrical & Electronics Engineering student who enjoys turning ideas into working systems—from digital logic and embedded software to computer-vision applications. I am especially interested in building practical, measurable solutions where hardware, software, and AI work together.
 
-I'm an **Electrical & Electronics Engineering** student passionate about developing intelligent systems where **hardware, embedded software, and artificial intelligence** work together.
+- 🔭 Currently exploring **real-time computer vision**, **edge AI**, and **embedded systems**
+- 🧠 Training and deploying custom **YOLO11** object-detection models
+- ⚡ Designing with **VHDL**, **STM32**, and PCB tools
+- 🛠️ Prototyping concepts with 3D modelling and a **Bambu Lab A1**
+- 🌱 Always improving through hands-on projects and open-source work
 
-I enjoy transforming ideas into practical engineering solutions through embedded programming, computer vision, PCB design, and rapid prototyping.
+## Focus areas
 
-- 🔭 Currently working on **Computer Vision**, **Edge AI**, and **Embedded Systems**
-- 🤖 Training and deploying custom **YOLO11** object detection models
-- ⚙️ Developing embedded applications using **STM32**, **Arduino**, and **OpenCV**
-- 🔌 Designing digital systems with **VHDL**
-- 🖨️ Building prototypes using **PCB Design** and **3D Printing (Bambu Lab A1)**
-- 🌱 Constantly learning through open-source projects and hands-on engineering
+| Area | What I build and learn |
+| :-- | :-- |
+| 🤖 Computer Vision & AI | Object detection, custom datasets, inference pipelines, OpenCV and PyTorch |
+| ⚙️ Embedded Systems | Microcontroller firmware, sensor integration, real-time control and STM32 development |
+| 🔌 Digital Design | VHDL-based digital circuits, FPGA-oriented thinking and hardware debugging |
+| 🧩 Prototyping | PCB design, 3D modelling and rapid physical iteration |
 
----
-
-# 🚀 Focus Areas
-
-| Area | Technologies & Experience |
-|:--|:--|
-| 🤖 Computer Vision & AI | YOLO11, OpenCV, PyTorch, TensorFlow, Custom Dataset Preparation |
-| ⚙️ Embedded Systems | STM32, Arduino, Sensor Integration, UART, SPI, I²C |
-| 🔌 Digital Design | VHDL, FPGA Fundamentals, Digital Logic Design |
-| 💻 Software Development | Python, C++, Qt / PySide6, Git |
-| 🛠 Hardware Design | PCB Design, Altium Designer, 3D Printing |
-
----
-
-# 🧰 Tech Stack
+## Toolbox
 
 <div align="center">
 
-### Programming Languages
+**Software & AI**
 
 <a href="https://github.com/cngzhnucrr/python_temel">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </a>
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
-<img src="https://img.shields.io/badge/VHDL-6D4C9F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
----
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 
-### AI & Computer Vision
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+**Hardware & Design**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VHDL-6D4C9F?style=for-the-badge&logoColor=white" alt="VHDL" />
 
----
-
-### Embedded & Hardware
-
-<img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Altium%20Designer-A200FF?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
-
----
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Altium_Designer-A200FF?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
 
 </div>
 
----
-
-# 📊 GitHub Analytics
+## GitHub activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=cngzhnucrr&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cngzhnucrr&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cngzhnucrr&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&bg_color=1a1b26&border_color=414868&theme=tokyonight" alt="Cengizhan's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cngzhnucrr&layout=compact&langs_count=8&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&border_color=414868&theme=tokyonight" alt="Most used languages" height="170" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cngzhnucrr&theme=tokyonight&hide_border=false&border=414868" alt="GitHub contribution streak" height="165" />
 </div>
 
----
-
-# 🏆 GitHub Trophies
+## Let’s connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/cngzhnucr/">
+    <img src="https://img.shields.io/badge/LinkedIn-cngzhnucr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=cngzhnucrr&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📫 Connect with Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/cngzhnucr/">
-<img src="https://img.shields.io/badge/LinkedIn-Cengizhan_Uçar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:cnzucr@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Engineering is the art of turning ideas into reality."*
-
-If you enjoy my projects, feel free to ⭐ them.
-
+  <a href="mailto:cnzucr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 ```
